@@ -33,10 +33,10 @@ apt update && apt upgrade -y
 apt install ffmpeg -y
 ```
 ```
-git clone (https://github.com/Fiperx/UbotPrem.git) && cd gayoubotwann 
+git clone (https://github.com/Fiperx/UbotPrem.git) && cd UbotPrem 
 ```
 ```
-screen -S gayoubotwann
+screen -S UbotPrem
 ```
 ```
 bash installmodule.sh
