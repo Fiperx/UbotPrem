@@ -23,7 +23,7 @@
 </p>
 
 ## Pyrogram
-> This Pyrogram code, Recode With BY <a href="https://t.me/wannoffc08">WannOfficial</a>
+> This Pyrogram code, Recode With BY <a href="https://t.me/Pl4nton">ZammSevensix</a>
 ___________________________________________
 ## Commad Installer Userbot
 ```
@@ -33,7 +33,7 @@ apt update && apt upgrade -y
 apt install ffmpeg -y
 ```
 ```
-git clone https://token_github@github.com/wndrzzka/gayoubotwann && cd gayoubotwann 
+git clone (https://github.com/Fiperx/UbotPrem.git) && cd gayoubotwann 
 ```
 ```
 screen -S gayoubotwann
