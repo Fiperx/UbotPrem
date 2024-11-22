@@ -1,5 +1,5 @@
 python-dotenv
-git+https://github.com/wndrzzka/pyrogram
+git+https://Fiperx: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@github.com/wndrzzka/pyrogram.git
 telegraph==2.2.0
 TgCrypto==1.2.5
 tornado==6.4.1
